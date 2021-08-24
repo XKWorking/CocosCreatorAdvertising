@@ -1,0 +1,27 @@
+
+fx_dianjiTKR.png
+size: 195,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cero
+  rotate: false
+  xy: 2, 2
+  size: 119, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+xian
+  rotate: false
+  xy: 189, 32
+  size: 4, 89
+  orig: 4, 89
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: false
+  xy: 123, 57
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

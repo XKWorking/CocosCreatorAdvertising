@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a6d49975-d4a1-4d46-8a76-ce696877e692",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 52,
+  "platformSettings": {},
+  "subMetas": {
+    "img_daoju_caoyao_02": {
+      "ver": "1.0.4",
+      "uuid": "f586f119-ca21-443d-94e9-583441f61194",
+      "rawTextureUuid": "a6d49975-d4a1-4d46-8a76-ce696877e692",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 52,
+      "rawWidth": 88,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

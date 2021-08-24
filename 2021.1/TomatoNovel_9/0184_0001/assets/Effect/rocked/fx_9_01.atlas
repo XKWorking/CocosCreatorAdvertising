@@ -1,0 +1,20 @@
+
+fx_9_01.png
+size: 945,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huojian
+  rotate: true
+  xy: 2, 2
+  size: 542, 697
+  orig: 552, 706
+  offset: 5, 5
+  index: -1
+huojian_02
+  rotate: true
+  xy: 701, 276
+  size: 268, 242
+  orig: 280, 252
+  offset: 6, 6
+  index: -1

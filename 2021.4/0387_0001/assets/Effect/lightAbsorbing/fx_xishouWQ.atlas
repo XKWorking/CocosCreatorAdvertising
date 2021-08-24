@@ -1,0 +1,111 @@
+
+fx_xishouWQ.png
+size: 774,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xishou/1_00001
+  rotate: false
+  xy: 2, 537
+  size: 225, 235
+  orig: 320, 320
+  offset: 34, 49
+  index: -1
+xishou/1_00002
+  rotate: false
+  xy: 2, 302
+  size: 214, 233
+  orig: 320, 320
+  offset: 38, 44
+  index: -1
+xishou/1_00003
+  rotate: false
+  xy: 2, 79
+  size: 213, 221
+  orig: 320, 320
+  offset: 41, 51
+  index: -1
+xishou/1_00004
+  rotate: false
+  xy: 217, 85
+  size: 206, 215
+  orig: 320, 320
+  offset: 44, 52
+  index: -1
+xishou/1_00005
+  rotate: false
+  xy: 218, 328
+  size: 198, 207
+  orig: 320, 320
+  offset: 48, 53
+  index: -1
+xishou/1_00006
+  rotate: false
+  xy: 229, 568
+  size: 194, 204
+  orig: 320, 320
+  offset: 50, 53
+  index: -1
+xishou/1_00007
+  rotate: false
+  xy: 418, 368
+  size: 188, 198
+  orig: 320, 320
+  offset: 54, 53
+  index: -1
+xishou/1_00008
+  rotate: true
+  xy: 523, 135
+  size: 184, 189
+  orig: 320, 320
+  offset: 60, 55
+  index: -1
+xishou/1_00009
+  rotate: false
+  xy: 425, 598
+  size: 176, 174
+  orig: 320, 320
+  offset: 68, 62
+  index: -1
+xishou/1_00010
+  rotate: false
+  xy: 608, 615
+  size: 164, 157
+  orig: 320, 320
+  offset: 78, 67
+  index: -1
+xishou/1_00011
+  rotate: false
+  xy: 608, 466
+  size: 155, 147
+  orig: 320, 320
+  offset: 83, 73
+  index: -1
+xishou/1_00012
+  rotate: false
+  xy: 608, 321
+  size: 151, 143
+  orig: 320, 320
+  offset: 86, 75
+  index: -1
+xishou/1_00013
+  rotate: false
+  xy: 425, 80
+  size: 92, 92
+  orig: 320, 320
+  offset: 113, 113
+  index: -1
+xishou/1_00014
+  rotate: false
+  xy: 425, 174
+  size: 94, 94
+  orig: 320, 320
+  offset: 112, 112
+  index: -1
+xishou/1_00015
+  rotate: false
+  xy: 425, 270
+  size: 96, 96
+  orig: 320, 320
+  offset: 111, 111
+  index: -1

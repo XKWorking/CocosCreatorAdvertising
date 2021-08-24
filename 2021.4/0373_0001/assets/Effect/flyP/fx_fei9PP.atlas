@@ -1,0 +1,13 @@
+
+fx_fei9PP.png
+size: 67,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pp
+  rotate: false
+  xy: 2, 2
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1

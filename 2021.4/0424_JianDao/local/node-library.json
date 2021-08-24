@@ -1,0 +1,11 @@
+{
+  "user": {
+    "name": "User",
+    "prefab": [
+      {
+        "name": "Click",
+        "uuid": "623144a4-9d94-4446-b587-c20e163aaf9d"
+      }
+    ]
+  }
+}

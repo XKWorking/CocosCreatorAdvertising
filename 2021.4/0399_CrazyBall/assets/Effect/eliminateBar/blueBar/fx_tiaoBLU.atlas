@@ -1,0 +1,48 @@
+
+fx_tiaoBLU.png
+size: 862,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 621, 2
+  size: 239, 234
+  orig: 256, 256
+  offset: 9, 11
+  index: -1
+lizi_02
+  rotate: false
+  xy: 494, 140
+  size: 27, 25
+  orig: 35, 35
+  offset: 4, 6
+  index: -1
+lt1
+  rotate: false
+  xy: 2, 167
+  size: 617, 69
+  orig: 617, 69
+  offset: 0, 0
+  index: -1
+lt1g
+  rotate: false
+  xy: 2, 21
+  size: 355, 98
+  orig: 363, 104
+  offset: 4, 3
+  index: -1
+tt
+  rotate: false
+  xy: 359, 49
+  size: 104, 70
+  orig: 104, 79
+  offset: 0, 6
+  index: -1
+x
+  rotate: false
+  xy: 2, 121
+  size: 490, 44
+  orig: 539, 44
+  offset: 19, 0
+  index: -1

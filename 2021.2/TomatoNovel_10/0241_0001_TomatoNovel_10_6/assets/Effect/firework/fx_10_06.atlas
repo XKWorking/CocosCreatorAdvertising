@@ -1,0 +1,153 @@
+
+fx_10_06.png
+size: 683,683
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hb
+  rotate: false
+  xy: 2, 22
+  size: 178, 235
+  orig: 178, 236
+  offset: 0, 1
+  index: -1
+img_06
+  rotate: false
+  xy: 2, 259
+  size: 192, 422
+  orig: 192, 422
+  offset: 0, 0
+  index: -1
+img_07
+  rotate: false
+  xy: 182, 14
+  size: 190, 75
+  orig: 190, 76
+  offset: 0, 1
+  index: -1
+yan/y_00
+  rotate: false
+  xy: 337, 269
+  size: 120, 91
+  orig: 250, 300
+  offset: 65, 22
+  index: -1
+yan/y_01
+  rotate: false
+  xy: 501, 389
+  size: 172, 136
+  orig: 250, 300
+  offset: 37, 35
+  index: -1
+yan/y_02
+  rotate: true
+  xy: 182, 91
+  size: 166, 160
+  orig: 250, 300
+  offset: 40, 38
+  index: -1
+yan/y_03
+  rotate: false
+  xy: 342, 362
+  size: 157, 163
+  orig: 250, 300
+  offset: 44, 39
+  index: -1
+yan/y_04
+  rotate: true
+  xy: 344, 527
+  size: 154, 167
+  orig: 250, 300
+  offset: 45, 39
+  index: -1
+yan/y_05
+  rotate: false
+  xy: 344, 97
+  size: 149, 170
+  orig: 250, 300
+  offset: 46, 39
+  index: -1
+yan/y_07
+  rotate: false
+  xy: 196, 507
+  size: 144, 174
+  orig: 250, 300
+  offset: 51, 43
+  index: -1
+yan/y_09
+  rotate: false
+  xy: 196, 335
+  size: 139, 170
+  orig: 250, 300
+  offset: 54, 57
+  index: -1
+yan/y_11
+  rotate: true
+  xy: 513, 548
+  size: 133, 165
+  orig: 250, 300
+  offset: 55, 67
+  index: -1
+yan/y_13
+  rotate: false
+  xy: 495, 108
+  size: 124, 159
+  orig: 250, 300
+  offset: 61, 78
+  index: -1
+yan/y_15
+  rotate: false
+  xy: 564, 292
+  size: 113, 95
+  orig: 250, 300
+  offset: 68, 149
+  index: -1
+yan/y_16
+  rotate: false
+  xy: 374, 2
+  size: 108, 93
+  orig: 250, 300
+  offset: 72, 153
+  index: -1
+yan/y_17
+  rotate: false
+  xy: 459, 269
+  size: 103, 91
+  orig: 250, 300
+  offset: 75, 158
+  index: -1
+yan/y_18
+  rotate: false
+  xy: 196, 269
+  size: 94, 64
+  orig: 250, 300
+  offset: 79, 187
+  index: -1
+yan/y_19
+  rotate: true
+  xy: 484, 8
+  size: 87, 62
+  orig: 250, 300
+  offset: 83, 193
+  index: -1
+yan/y_20
+  rotate: true
+  xy: 548, 25
+  size: 81, 60
+  orig: 250, 300
+  offset: 85, 200
+  index: -1
+yan/y_21
+  rotate: true
+  xy: 610, 29
+  size: 77, 59
+  orig: 250, 300
+  offset: 86, 206
+  index: -1
+yan/y_22
+  rotate: true
+  xy: 621, 218
+  size: 72, 52
+  orig: 250, 300
+  offset: 89, 213
+  index: -1

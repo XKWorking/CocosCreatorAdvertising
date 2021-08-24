@@ -1,0 +1,72 @@
+{
+"skeleton": { "hash": "KvGsHQagAWIf9T6Lp8dZ/PcuIu0", "spine": "3.8.99", "images": "./dasd/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "a", "parent": "root" }
+],
+"slots": [
+	{ "name": "1_00000", "bone": "a" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1_00000": {
+				"1_00000": { "width": 400, "height": 300 },
+				"1_00001": { "width": 400, "height": 300 },
+				"1_00002": { "width": 400, "height": 300 },
+				"1_00003": { "width": 400, "height": 300 },
+				"1_00004": { "width": 400, "height": 300 },
+				"1_00005": { "width": 400, "height": 300 },
+				"1_00006": { "width": 400, "height": 300 },
+				"1_00007": { "width": 400, "height": 300 },
+				"1_00008": { "width": 400, "height": 300 },
+				"1_00009": { "width": 400, "height": 300 },
+				"1_00010": { "width": 400, "height": 300 },
+				"1_00011": { "width": 400, "height": 300 },
+				"1_00012": { "width": 400, "height": 300 }
+			}
+		}
+	}
+],
+"animations": {
+	"texiao": {
+		"slots": {
+			"1_00000": {
+				"attachment": [
+					{ "name": "1_00000" },
+					{ "time": 0.0333, "name": "1_00001" },
+					{ "time": 0.0667, "name": "1_00002" },
+					{ "time": 0.1, "name": "1_00003" },
+					{ "time": 0.1333, "name": "1_00004" },
+					{ "time": 0.1667, "name": "1_00005" },
+					{ "time": 0.2, "name": "1_00006" },
+					{ "time": 0.2333, "name": "1_00007" },
+					{ "time": 0.2667, "name": "1_00008" },
+					{ "time": 0.3, "name": "1_00009" },
+					{ "time": 0.3333, "name": "1_00010" },
+					{ "time": 0.3667, "name": "1_00011" },
+					{ "time": 0.4, "name": "1_00012" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"a": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4333 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4333 }
+				],
+				"scale": [
+					{ "x": 0.847, "y": 0.847, "curve": "stepped" },
+					{ "time": 0.4333, "x": 0.847, "y": 0.847 }
+				]
+			}
+		}
+	}
+}
+}

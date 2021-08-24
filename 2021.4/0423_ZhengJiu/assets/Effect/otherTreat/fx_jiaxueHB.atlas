@@ -1,0 +1,174 @@
+
+fx_jiaxueHB.png
+size: 727,727
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cdd/jiaxue__65
+  rotate: true
+  xy: 527, 475
+  size: 124, 181
+  orig: 160, 243
+  offset: 7, 32
+  index: -1
+cdd/jiaxue__67
+  rotate: true
+  xy: 527, 601
+  size: 124, 195
+  orig: 160, 243
+  offset: 7, 26
+  index: -1
+cdd/jiaxue__69
+  rotate: false
+  xy: 375, 25
+  size: 124, 203
+  orig: 160, 243
+  offset: 8, 26
+  index: -1
+cdd/jiaxue__71
+  rotate: true
+  xy: 2, 2
+  size: 129, 221
+  orig: 160, 243
+  offset: 8, 0
+  index: -1
+cdd/jiaxue__73
+  rotate: false
+  xy: 211, 220
+  size: 129, 219
+  orig: 160, 243
+  offset: 9, 8
+  index: -1
+cdd/jiaxue__75
+  rotate: false
+  xy: 342, 230
+  size: 130, 217
+  orig: 160, 243
+  offset: 8, 17
+  index: -1
+cdd/jiaxue__77
+  rotate: false
+  xy: 225, 3
+  size: 148, 215
+  orig: 160, 243
+  offset: 8, 27
+  index: -1
+cdd/jiaxue__79
+  rotate: false
+  xy: 376, 520
+  size: 149, 205
+  orig: 160, 243
+  offset: 7, 38
+  index: -1
+cdd/jiaxue__81
+  rotate: true
+  xy: 501, 15
+  size: 147, 146
+  orig: 160, 243
+  offset: 7, 50
+  index: -1
+cdd/jiaxue__83
+  rotate: false
+  xy: 474, 233
+  size: 143, 162
+  orig: 160, 243
+  offset: 7, 43
+  index: -1
+fire/J_lizi
+  rotate: false
+  xy: 352, 454
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+fire/glow001
+  rotate: false
+  xy: 405, 481
+  size: 37, 37
+  orig: 50, 50
+  offset: 7, 6
+  index: -1
+fire/path001
+  rotate: true
+  xy: 474, 397
+  size: 121, 48
+  orig: 128, 64
+  offset: 0, 8
+  index: -1
+fire/path002
+  rotate: false
+  xy: 180, 441
+  size: 75, 25
+  orig: 80, 40
+  offset: 3, 9
+  index: -1
+piaodai/04
+  rotate: true
+  xy: 274, 449
+  size: 56, 76
+  orig: 120, 400
+  offset: 30, 85
+  index: -1
+piaodai/06
+  rotate: false
+  xy: 649, 32
+  size: 70, 130
+  orig: 120, 400
+  offset: 39, 101
+  index: -1
+piaodai/08
+  rotate: false
+  xy: 107, 438
+  size: 71, 287
+  orig: 120, 400
+  offset: 44, 23
+  index: -1
+piaodai/10
+  rotate: false
+  xy: 2, 133
+  size: 107, 292
+  orig: 120, 400
+  offset: 8, 56
+  index: -1
+piaodai/12
+  rotate: false
+  xy: 2, 427
+  size: 103, 298
+  orig: 120, 400
+  offset: 10, 59
+  index: -1
+piaodai/14
+  rotate: false
+  xy: 111, 154
+  size: 98, 282
+  orig: 120, 400
+  offset: 21, 76
+  index: -1
+piaodai/16
+  rotate: false
+  xy: 180, 468
+  size: 92, 257
+  orig: 120, 400
+  offset: 21, 100
+  index: -1
+piaodai/18
+  rotate: false
+  xy: 274, 507
+  size: 100, 218
+  orig: 120, 400
+  offset: 13, 150
+  index: -1
+piaodai/20
+  rotate: false
+  xy: 619, 302
+  size: 102, 171
+  orig: 120, 400
+  offset: 11, 216
+  index: -1
+piaodai/22
+  rotate: false
+  xy: 619, 164
+  size: 90, 136
+  orig: 120, 400
+  offset: 20, 259
+  index: -1

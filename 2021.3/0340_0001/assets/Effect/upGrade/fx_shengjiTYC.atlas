@@ -1,0 +1,27 @@
+
+fx_shengjiTYC.png
+size: 386,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fang
+  rotate: false
+  xy: 254, 8
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 366, 51
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+shengguang
+  rotate: true
+  xy: 2, 2
+  size: 67, 250
+  orig: 67, 250
+  offset: 0, 0
+  index: -1

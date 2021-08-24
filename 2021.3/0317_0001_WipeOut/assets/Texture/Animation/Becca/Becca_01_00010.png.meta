@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6d9eb234-a176-49f0-a998-56e4b65ab407",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "Becca_01_00010": {
+      "ver": "1.0.4",
+      "uuid": "e593b8a6-2a3d-467a-ba4c-8a6b44ffeb02",
+      "rawTextureUuid": "6d9eb234-a176-49f0-a998-56e4b65ab407",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -13.5,
+      "offsetY": 7,
+      "trimX": 94,
+      "trimY": 95,
+      "width": 85,
+      "height": 96,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,97 @@
+
+dog.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dbody
+  rotate: false
+  xy: 2, 336
+  size: 185, 138
+  orig: 185, 138
+  offset: 0, 0
+  index: -1
+Dcloseeye
+  rotate: false
+  xy: 189, 341
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+Dface
+  rotate: false
+  xy: 2, 203
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+Dface_2
+  rotate: false
+  xy: 2, 70
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+Dface_3
+  rotate: false
+  xy: 114, 203
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+Dleg1
+  rotate: false
+  xy: 114, 129
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+Dleg2
+  rotate: false
+  xy: 114, 75
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+Dleg3
+  rotate: false
+  xy: 189, 366
+  size: 50, 108
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+Dleg4
+  rotate: false
+  xy: 158, 139
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+Dteal
+  rotate: false
+  xy: 199, 142
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+dogw_1
+  rotate: false
+  xy: 158, 70
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+dogw_2
+  rotate: false
+  xy: 53, 4
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+dogw_3
+  rotate: false
+  xy: 2, 2
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1

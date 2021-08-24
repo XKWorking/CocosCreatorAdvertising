@@ -1,0 +1,179 @@
+{
+"skeleton": { "hash": "7kDkO88e5/QQb0P/et3m29qPsNo", "spine": "3.8.99", "images": "C:/Users/Administrator/Desktop/11", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "1", "parent": "root" },
+	{ "name": "K", "parent": "1" },
+	{ "name": "K2", "parent": "1" },
+	{ "name": "2", "parent": "root", "scaleX": 0.85, "scaleY": 0.85 },
+	{ "name": "K3", "parent": "2" },
+	{ "name": "K4", "parent": "2" }
+],
+"slots": [
+	{ "name": "img_05", "bone": "K" },
+	{ "name": "img_6", "bone": "K3" },
+	{ "name": "img_5", "bone": "K2", "blend": "additive" },
+	{ "name": "img_7", "bone": "K4", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"img_05": {
+				"img_05": { "width": 362, "height": 348 }
+			},
+			"img_5": {
+				"img_05": { "width": 362, "height": 348 }
+			},
+			"img_6": {
+				"img_05": { "width": 362, "height": 348 }
+			},
+			"img_7": {
+				"img_05": { "width": 362, "height": 348 }
+			}
+		}
+	}
+],
+"animations": {
+	"texiao": {
+		"slots": {
+			"img_05": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.4667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "img_05" },
+					{ "time": 0.4667, "name": "img_05" },
+					{ "time": 0.8333, "name": "img_05" }
+				]
+			},
+			"img_5": {
+				"color": [
+					{ "color": "ff6e00ff", "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.4667, "color": "ff6d0000", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ff6d0000" }
+				],
+				"attachment": [
+					{ "name": "img_05" },
+					{ "time": 0.4667, "name": "img_05" },
+					{ "time": 0.8333, "name": "img_05" }
+				]
+			},
+			"img_6": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "img_05" },
+					{ "time": 0.8333, "name": "img_05" }
+				]
+			},
+			"img_7": {
+				"color": [
+					{ "color": "ff6e00ff", "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.8333, "color": "ff6d0000" }
+				],
+				"attachment": [
+					{ "name": "img_05" },
+					{ "time": 0.8333, "name": "img_05" }
+				]
+			}
+		},
+		"bones": {
+			"K": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4667, "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4667, "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"scale": [
+					{ "x": 0.785, "y": 0.785, "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.4667, "x": 2.027, "y": 2.027, "curve": "stepped" },
+					{ "time": 0.8333, "x": 2.027, "y": 2.027 }
+				]
+			},
+			"K2": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4667, "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4667, "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"scale": [
+					{ "x": 0.785, "y": 0.785, "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.4667, "x": 2.027, "y": 2.027, "curve": "stepped" },
+					{ "time": 0.8333, "x": 2.027, "y": 2.027 }
+				]
+			},
+			"K3": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"scale": [
+					{ "x": 0.785, "y": 0.785, "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.8333, "x": 2.177, "y": 2.177 }
+				]
+			},
+			"K4": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"scale": [
+					{ "x": 0.785, "y": 0.785, "curve": 0.174, "c2": 0.21, "c3": 0.64, "c4": 0.98 },
+					{ "time": 0.8333, "x": 2.177, "y": 2.177 }
+				]
+			},
+			"2": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				]
+			},
+			"1": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333 }
+				]
+			}
+		}
+	}
+}
+}

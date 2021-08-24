@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a3b1d12b-413c-4a45-ac9f-cb87a1136c77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 144,
+  "platformSettings": {},
+  "subMetas": {
+    "img_daoju_dahuandan_01": {
+      "ver": "1.0.4",
+      "uuid": "cde1c19c-2cf7-4f29-a399-e181ad9a9eb0",
+      "rawTextureUuid": "a3b1d12b-413c-4a45-ac9f-cb87a1136c77",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 143,
+      "height": 143,
+      "rawWidth": 144,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,370 @@
+
+girl2.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GarmL_8
+  rotate: false
+  xy: 138, 54
+  size: 28, 55
+  orig: 30, 57
+  offset: 1, 1
+  index: -1
+GarmR_8
+  rotate: false
+  xy: 232, 129
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Gbody_8
+  rotate: false
+  xy: 2, 85
+  size: 63, 95
+  orig: 63, 95
+  offset: 0, 0
+  index: -1
+Gborn_1_8
+  rotate: true
+  xy: 306, 268
+  size: 14, 6
+  orig: 16, 8
+  offset: 1, 1
+  index: -1
+Gborn_2_8
+  rotate: false
+  xy: 168, 57
+  size: 15, 5
+  orig: 17, 7
+  offset: 1, 1
+  index: -1
+Gface_8
+  rotate: false
+  xy: 2, 182
+  size: 127, 132
+  orig: 129, 133
+  offset: 1, 1
+  index: -1
+GfootL_8
+  rotate: true
+  xy: 194, 203
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+GfootR_8
+  rotate: false
+  xy: 138, 111
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+GlegL_8
+  rotate: true
+  xy: 191, 275
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+GlegR_8
+  rotate: false
+  xy: 67, 96
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+GsarmL_8
+  rotate: true
+  xy: 181, 114
+  size: 21, 43
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+GsarmR_8
+  rotate: false
+  xy: 88, 6
+  size: 28, 46
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+girl/Gcloseeye_1
+  rotate: false
+  xy: 67, 82
+  size: 62, 12
+  orig: 68, 14
+  offset: 5, 0
+  index: -1
+girl/Gcloseeye_2
+  rotate: false
+  xy: 191, 247
+  size: 71, 26
+  orig: 73, 28
+  offset: 1, 1
+  index: -1
+girl/Gcloseeye_3
+  rotate: false
+  xy: 194, 185
+  size: 76, 16
+  orig: 78, 34
+  offset: 2, 18
+  index: -1
+girl/Geye5
+  rotate: false
+  xy: 189, 57
+  size: 34, 25
+  orig: 36, 27
+  offset: 1, 1
+  index: -1
+girl/Geye6
+  rotate: true
+  xy: 269, 141
+  size: 28, 21
+  orig: 30, 23
+  offset: 1, 1
+  index: -1
+girl/Geye_1
+  rotate: false
+  xy: 47, 4
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+girl/Geye_2
+  rotate: false
+  xy: 47, 4
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+girl/Geyewhite
+  rotate: false
+  xy: 56, 54
+  size: 60, 26
+  orig: 62, 28
+  offset: 1, 1
+  index: -1
+girl/Ghand1
+  rotate: true
+  xy: 292, 136
+  size: 11, 22
+  orig: 13, 24
+  offset: 1, 1
+  index: -1
+girl/Ghand2
+  rotate: false
+  xy: 143, 2
+  size: 12, 14
+  orig: 14, 16
+  offset: 1, 1
+  index: -1
+girl/GhandL_1
+  rotate: false
+  xy: 292, 190
+  size: 22, 26
+  orig: 24, 28
+  offset: 1, 1
+  index: -1
+girl/GhandL_2
+  rotate: true
+  xy: 258, 42
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+girl/GhandL_3
+  rotate: true
+  xy: 138, 18
+  size: 34, 30
+  orig: 36, 32
+  offset: 1, 1
+  index: -1
+girl/GhandL_4
+  rotate: false
+  xy: 170, 25
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+girl/GhandL_5
+  rotate: false
+  xy: 225, 67
+  size: 25, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+girl/GhandL_6
+  rotate: true
+  xy: 252, 67
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+girl/GhandR_1
+  rotate: true
+  xy: 225, 17
+  size: 23, 29
+  orig: 25, 31
+  offset: 1, 1
+  index: -1
+girl/GhandR_2
+  rotate: false
+  xy: 292, 163
+  size: 22, 25
+  orig: 25, 31
+  offset: 2, 5
+  index: -1
+girl/GhandR_3
+  rotate: true
+  xy: 225, 42
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+girl/GhandR_4
+  rotate: false
+  xy: 189, 84
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+girl/GhandR_5
+  rotate: false
+  xy: 270, 254
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+girl/GhandR_6
+  rotate: true
+  xy: 270, 284
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+girl/Gmouse_1
+  rotate: false
+  xy: 267, 203
+  size: 23, 13
+  orig: 25, 15
+  offset: 1, 1
+  index: -1
+girl/Gmouse_2
+  rotate: false
+  xy: 267, 218
+  size: 28, 34
+  orig: 28, 37
+  offset: 0, 1
+  index: -1
+girl/Gmouse_3
+  rotate: true
+  xy: 56, 2
+  size: 50, 30
+  orig: 51, 31
+  offset: 1, 1
+  index: -1
+girl/Gmouse_4
+  rotate: false
+  xy: 226, 102
+  size: 34, 25
+  orig: 41, 26
+  offset: 4, 0
+  index: -1
+girl/Gmouse_5
+  rotate: false
+  xy: 199, 35
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+girl/Gmouse_6
+  rotate: false
+  xy: 292, 149
+  size: 22, 12
+  orig: 25, 15
+  offset: 2, 1
+  index: -1
+girl/Gmouse_7
+  rotate: true
+  xy: 272, 171
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+girl/Gmouse_8
+  rotate: false
+  xy: 118, 2
+  size: 23, 14
+  orig: 29, 17
+  offset: 4, 1
+  index: -1
+girl/Gmouse_9
+  rotate: false
+  xy: 2, 6
+  size: 43, 5
+  orig: 43, 8
+  offset: 0, 1
+  index: -1
+girl/angry
+  rotate: false
+  xy: 181, 137
+  size: 49, 46
+  orig: 50, 47
+  offset: 1, 1
+  index: -1
+girl/beg1
+  rotate: false
+  xy: 168, 64
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+girl/beg2
+  rotate: false
+  xy: 157, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+girl/beg3
+  rotate: true
+  xy: 131, 186
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+girl/bindGirl
+  rotate: true
+  xy: 118, 19
+  size: 61, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+girl/facecold
+  rotate: false
+  xy: 131, 241
+  size: 58, 73
+  orig: 58, 83
+  offset: 0, 9
+  index: -1
+girl/honglian
+  rotate: true
+  xy: 113, 96
+  size: 84, 23
+  orig: 91, 25
+  offset: 5, 1
+  index: -1
+girl/water
+  rotate: false
+  xy: 170, 4
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+girl/wenhao
+  rotate: false
+  xy: 2, 13
+  size: 52, 70
+  orig: 104, 134
+  offset: 26, 37
+  index: -1

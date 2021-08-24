@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "dedb9a7a-e8dd-4fa7-9603-c46000905d22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 466,
+  "height": 114,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_xiazaiapp": {
+      "ver": "1.0.4",
+      "uuid": "33fca862-7cc6-4eeb-bf6a-793006d34c98",
+      "rawTextureUuid": "dedb9a7a-e8dd-4fa7-9603-c46000905d22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 466,
+      "height": 114,
+      "rawWidth": 466,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

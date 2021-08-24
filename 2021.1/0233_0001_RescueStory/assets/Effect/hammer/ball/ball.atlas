@@ -1,0 +1,20 @@
+
+ball.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+colorball
+  rotate: false
+  xy: 2, 2
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 2, 75
+  size: 108, 145
+  orig: 108, 145
+  offset: 0, 0
+  index: -1

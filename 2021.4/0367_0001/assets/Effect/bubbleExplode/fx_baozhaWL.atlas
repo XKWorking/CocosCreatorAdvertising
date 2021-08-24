@@ -1,0 +1,139 @@
+
+fx_baozhaWL.png
+size: 762,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi1/1_00008
+  rotate: false
+  xy: 412, 508
+  size: 143, 133
+  orig: 197, 195
+  offset: 25, 36
+  index: -1
+lizi1/1_00009
+  rotate: false
+  xy: 270, 516
+  size: 140, 132
+  orig: 197, 195
+  offset: 26, 36
+  index: -1
+lizi1/1_00010
+  rotate: false
+  xy: 132, 528
+  size: 136, 130
+  orig: 197, 195
+  offset: 28, 36
+  index: -1
+lizi1/1_00011
+  rotate: true
+  xy: 2, 552
+  size: 133, 128
+  orig: 197, 195
+  offset: 29, 37
+  index: -1
+lizi1/1_00012
+  rotate: false
+  xy: 568, 637
+  size: 128, 123
+  orig: 197, 195
+  offset: 31, 39
+  index: -1
+lizi1/1_00013
+  rotate: false
+  xy: 444, 643
+  size: 122, 117
+  orig: 197, 195
+  offset: 34, 42
+  index: -1
+lizi1/1_00014
+  rotate: false
+  xy: 329, 650
+  size: 113, 110
+  orig: 197, 195
+  offset: 39, 46
+  index: -1
+lizi1/1_00015
+  rotate: false
+  xy: 225, 660
+  size: 102, 100
+  orig: 197, 195
+  offset: 44, 51
+  index: -1
+lizi1/1_00016
+  rotate: false
+  xy: 134, 672
+  size: 89, 88
+  orig: 197, 195
+  offset: 51, 57
+  index: -1
+lizi1/1_00017
+  rotate: false
+  xy: 58, 687
+  size: 74, 73
+  orig: 197, 195
+  offset: 60, 65
+  index: -1
+lizi1/1_00018
+  rotate: false
+  xy: 2, 707
+  size: 54, 53
+  orig: 197, 195
+  offset: 70, 74
+  index: -1
+pao/1_00000
+  rotate: true
+  xy: 556, 291
+  size: 177, 193
+  orig: 200, 193
+  offset: 13, 0
+  index: -1
+pao/1_00001
+  rotate: false
+  xy: 380, 313
+  size: 174, 193
+  orig: 200, 193
+  offset: 10, 0
+  index: -1
+pao/1_00002
+  rotate: true
+  xy: 2, 355
+  size: 171, 186
+  orig: 200, 193
+  offset: 12, 4
+  index: -1
+pao/1_00003
+  rotate: true
+  xy: 190, 342
+  size: 172, 188
+  orig: 200, 193
+  offset: 11, 0
+  index: -1
+paodi/pd_00000
+  rotate: false
+  xy: 557, 470
+  size: 203, 165
+  orig: 512, 512
+  offset: 141, 168
+  index: -1
+paodi/pd_00001
+  rotate: true
+  xy: 2, 136
+  size: 204, 207
+  orig: 512, 512
+  offset: 141, 151
+  index: -1
+paodi/pd_00002
+  rotate: true
+  xy: 211, 86
+  size: 225, 233
+  orig: 512, 512
+  offset: 134, 142
+  index: -1
+paodi/pd_00003
+  rotate: true
+  xy: 446, 60
+  size: 229, 243
+  orig: 512, 512
+  offset: 130, 135
+  index: -1

@@ -1,0 +1,20 @@
+
+fx_9_10.png
+size: 801,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong
+  rotate: true
+  xy: 2, 2
+  size: 176, 741
+  orig: 176, 750
+  offset: 0, 0
+  index: -1
+hb
+  rotate: false
+  xy: 745, 100
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1

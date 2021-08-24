@@ -1,0 +1,20 @@
+
+zhen_sahua.png
+size: 39,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fk
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+xt
+  rotate: false
+  xy: 2, 39
+  size: 14, 218
+  orig: 14, 218
+  offset: 0, 0
+  index: -1

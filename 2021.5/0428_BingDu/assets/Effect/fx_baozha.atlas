@@ -1,0 +1,55 @@
+
+fx_baozha.png
+size: 329,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian
+  rotate: false
+  xy: 248, 29
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ci
+  rotate: false
+  xy: 131, 2
+  size: 178, 21
+  orig: 205, 102
+  offset: 12, 40
+  index: -1
+gl
+  rotate: false
+  xy: 248, 96
+  size: 43, 44
+  orig: 51, 51
+  offset: 4, 4
+  index: -1
+quan/q_01
+  rotate: false
+  xy: 131, 25
+  size: 115, 115
+  orig: 127, 127
+  offset: 6, 6
+  index: -1
+quan/q_03
+  rotate: false
+  xy: 2, 13
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+sui
+  rotate: false
+  xy: 292, 58
+  size: 35, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sui_yz
+  rotate: false
+  xy: 248, 51
+  size: 42, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

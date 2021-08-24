@@ -1,0 +1,69 @@
+
+fx_10_10.png
+size: 362,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03 (5)
+  rotate: false
+  xy: 193, 205
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Hansell_connect_icon_003
+  rotate: false
+  xy: 180, 85
+  size: 94, 85
+  orig: 113, 113
+  offset: 5, 15
+  index: -1
+X
+  rotate: false
+  xy: 276, 99
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+baodian
+  rotate: false
+  xy: 193, 183
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+baoquan
+  rotate: false
+  xy: 276, 34
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+hb
+  rotate: true
+  xy: 233, 172
+  size: 188, 127
+  orig: 188, 130
+  offset: 0, 3
+  index: -1
+hb_yz
+  rotate: false
+  xy: 2, 233
+  size: 229, 127
+  orig: 230, 128
+  offset: 0, 1
+  index: -1
+shuipao
+  rotate: true
+  xy: 180, 184
+  size: 47, 11
+  orig: 52, 52
+  offset: 3, 22
+  index: -1
+star01
+  rotate: false
+  xy: 2, 55
+  size: 176, 176
+  orig: 213, 230
+  offset: 19, 29
+  index: -1

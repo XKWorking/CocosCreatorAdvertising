@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9dbd2732-74d4-492a-bd35-a35ca8f3e08f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 260,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "s01_treasurebox": {
+      "ver": "1.0.4",
+      "uuid": "1bab5e59-1d0c-4fbd-adff-d7d84e6bd7a9",
+      "rawTextureUuid": "9dbd2732-74d4-492a-bd35-a35ca8f3e08f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 6,
+      "width": 254,
+      "height": 187,
+      "rawWidth": 260,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

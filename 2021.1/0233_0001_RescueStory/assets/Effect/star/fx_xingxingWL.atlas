@@ -1,0 +1,13 @@
+
+fx_xingxingWL.png
+size: 72,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xx
+  rotate: false
+  xy: 2, 2
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1

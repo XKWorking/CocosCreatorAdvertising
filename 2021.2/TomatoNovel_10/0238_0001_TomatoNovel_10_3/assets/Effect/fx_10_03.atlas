@@ -1,0 +1,27 @@
+
+fx_10_03.png
+size: 100,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: true
+  xy: 2, 45
+  size: 12, 96
+  orig: 12, 96
+  offset: 0, 0
+  index: -1
+f
+  rotate: true
+  xy: 19, 2
+  size: 41, 50
+  orig: 50, 50
+  offset: 4, 0
+  index: -1
+q
+  rotate: false
+  xy: 2, 28
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

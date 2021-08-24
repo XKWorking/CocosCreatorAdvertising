@@ -1,0 +1,27 @@
+
+bonusball.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusball_1
+  rotate: false
+  xy: 2, 54
+  size: 92, 179
+  orig: 92, 179
+  offset: 0, 0
+  index: -1
+bonusball_2
+  rotate: false
+  xy: 96, 54
+  size: 87, 179
+  orig: 87, 179
+  offset: 0, 0
+  index: -1
+bonusball_3
+  rotate: false
+  xy: 2, 2
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1

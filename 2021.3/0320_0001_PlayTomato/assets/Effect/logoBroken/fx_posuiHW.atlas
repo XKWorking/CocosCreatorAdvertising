@@ -1,0 +1,27 @@
+
+fx_posuiHW.png
+size: 268,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb
+  rotate: false
+  xy: 180, 73
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 180, 45
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+star01
+  rotate: false
+  xy: 2, 2
+  size: 176, 176
+  orig: 213, 230
+  offset: 19, 29
+  index: -1

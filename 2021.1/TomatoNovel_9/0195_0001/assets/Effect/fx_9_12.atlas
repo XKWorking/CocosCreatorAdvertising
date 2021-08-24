@@ -1,0 +1,69 @@
+
+fx_9_12.png
+size: 1795,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HB1
+  rotate: false
+  xy: 1428, 87
+  size: 340, 382
+  orig: 340, 382
+  offset: 0, 0
+  index: -1
+HB2
+  rotate: true
+  xy: 1043, 151
+  size: 339, 383
+  orig: 339, 383
+  offset: 0, 0
+  index: -1
+HB3
+  rotate: true
+  xy: 1492, 681
+  size: 256, 301
+  orig: 259, 301
+  offset: 1, 0
+  index: -1
+HB4
+  rotate: true
+  xy: 1492, 471
+  size: 208, 256
+  orig: 210, 256
+  offset: 2, 0
+  index: -1
+fudai1
+  rotate: false
+  xy: 1043, 492
+  size: 447, 445
+  orig: 447, 445
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 2, 2
+  size: 1042, 1039
+  orig: 1042, 1039
+  offset: 0, 0
+  index: -1
+hengfu
+  rotate: false
+  xy: 1043, 939
+  size: 688, 105
+  orig: 688, 105
+  offset: 0, 0
+  index: -1
+hongbao1
+  rotate: true
+  xy: 1157, 4
+  size: 145, 169
+  orig: 218, 242
+  offset: 41, 45
+  index: -1
+jinbi2
+  rotate: true
+  xy: 1043, 2
+  size: 147, 112
+  orig: 227, 228
+  offset: 34, 52
+  index: -1

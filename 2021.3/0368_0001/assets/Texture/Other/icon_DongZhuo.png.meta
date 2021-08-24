@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1499b834-a75c-4819-8433-88876dbe6db2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 220,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_DongZhuo": {
+      "ver": "1.0.4",
+      "uuid": "867e21bd-e547-4f1f-80d4-1d512e3ba4af",
+      "rawTextureUuid": "1499b834-a75c-4819-8433-88876dbe6db2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 300,
+      "rawWidth": 220,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

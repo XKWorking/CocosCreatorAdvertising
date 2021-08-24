@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4581c88b-664a-47a0-9152-d8ea9d4685e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 138,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "img_daoju_bengdai_01": {
+      "ver": "1.0.4",
+      "uuid": "d68e2155-980e-4e21-be28-0342da7dd453",
+      "rawTextureUuid": "4581c88b-664a-47a0-9152-d8ea9d4685e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 138,
+      "height": 95,
+      "rawWidth": 138,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,69 @@
+
+fx_10_04.png
+size: 735,735
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+damuzhgi
+  rotate: true
+  xy: 557, 379
+  size: 158, 175
+  orig: 158, 175
+  offset: 0, 0
+  index: -1
+hbb
+  rotate: true
+  xy: 361, 539
+  size: 194, 282
+  orig: 194, 282
+  offset: 0, 0
+  index: -1
+hbb1
+  rotate: false
+  xy: 361, 140
+  size: 194, 397
+  orig: 227, 397
+  offset: 16, 0
+  index: -1
+shizhi
+  rotate: false
+  xy: 528, 15
+  size: 116, 123
+  orig: 116, 123
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: false
+  xy: 2, 18
+  size: 357, 715
+  orig: 358, 716
+  offset: 0, 1
+  index: -1
+wumingzhi
+  rotate: false
+  xy: 557, 187
+  size: 145, 91
+  orig: 145, 91
+  offset: 0, 0
+  index: -1
+xhb
+  rotate: true
+  xy: 361, 7
+  size: 131, 165
+  orig: 132, 166
+  offset: 1, 1
+  index: -1
+xiaomuzhi
+  rotate: true
+  xy: 645, 607
+  size: 126, 88
+  orig: 141, 269
+  offset: 0, 0
+  index: -1
+zhongzhi
+  rotate: false
+  xy: 557, 280
+  size: 145, 97
+  orig: 145, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+countdown.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/s01_countdown_0
+  rotate: false
+  xy: 2, 2
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+images/s01_countdown_1
+  rotate: false
+  xy: 2, 81
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+images/s01_countdown_2
+  rotate: false
+  xy: 21, 80
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+images/s01_countdown_3
+  rotate: false
+  xy: 49, 79
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1

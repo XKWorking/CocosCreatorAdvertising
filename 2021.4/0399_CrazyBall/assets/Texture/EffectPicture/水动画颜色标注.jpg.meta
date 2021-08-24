@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7b302317-9c7e-4066-8d26-24500d19235d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 1280,
+  "platformSettings": {},
+  "subMetas": {
+    "水动画颜色标注": {
+      "ver": "1.0.4",
+      "uuid": "d6a970fe-b0f8-4d2c-8805-edc563c1ebb6",
+      "rawTextureUuid": "7b302317-9c7e-4066-8d26-24500d19235d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 1280,
+      "rawWidth": 1280,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

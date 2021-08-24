@@ -1,0 +1,10 @@
+let a: number = 6;
+let b: number = 6;
+let c: number = 0;
+let d: number = 0;
+c = ++a;
+d = b++;
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);

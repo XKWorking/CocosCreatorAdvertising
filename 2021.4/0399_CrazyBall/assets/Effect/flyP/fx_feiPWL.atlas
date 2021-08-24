@@ -1,0 +1,13 @@
+
+fx_feiPWL.png
+size: 78,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pp
+  rotate: false
+  xy: 2, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cb73b3ca-2128-4d1b-87ba-85299723324b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 260,
+  "height": 222,
+  "platformSettings": {},
+  "subMetas": {
+    "img_fudai_02": {
+      "ver": "1.0.4",
+      "uuid": "ea341218-639c-426e-8ad5-c0512c6906bb",
+      "rawTextureUuid": "cb73b3ca-2128-4d1b-87ba-85299723324b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 260,
+      "height": 222,
+      "rawWidth": 260,
+      "rawHeight": 222,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

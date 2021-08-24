@@ -1,0 +1,20 @@
+
+fx_10_06CD.png
+size: 259,39
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fk
+  rotate: false
+  xy: 222, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+xt
+  rotate: true
+  xy: 2, 23
+  size: 14, 218
+  orig: 14, 218
+  offset: 0, 0
+  index: -1

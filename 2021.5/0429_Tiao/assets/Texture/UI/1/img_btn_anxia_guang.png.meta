@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "011abc09-8cc5-44cc-a971-2f1d2b66c743",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 478,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "img_btn_anxia_guang": {
+      "ver": "1.0.4",
+      "uuid": "3ff6675c-0c2d-4e0b-b0af-07a7ce09ec41",
+      "rawTextureUuid": "011abc09-8cc5-44cc-a971-2f1d2b66c743",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 477,
+      "height": 199,
+      "rawWidth": 478,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

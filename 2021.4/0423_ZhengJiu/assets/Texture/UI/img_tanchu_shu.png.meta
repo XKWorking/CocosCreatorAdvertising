@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ca361b1a-e666-4302-b7e2-4e9beb59b576",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 416,
+  "height": 544,
+  "platformSettings": {},
+  "subMetas": {
+    "img_tanchu_shu": {
+      "ver": "1.0.4",
+      "uuid": "3c768e7e-7303-49b9-9c67-eb4032c826f2",
+      "rawTextureUuid": "ca361b1a-e666-4302-b7e2-4e9beb59b576",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 416,
+      "height": 544,
+      "rawWidth": 416,
+      "rawHeight": 544,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

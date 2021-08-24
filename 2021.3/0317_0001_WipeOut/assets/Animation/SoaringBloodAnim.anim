@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SoaringBloodAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "81b48d3a-0fd9-4516-b310-37f2a1f78546"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "ba75ca28-cd73-44ec-bd01-6e77f47e7706"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "f7e7fb62-59de-4919-a987-fe6646b8f53f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "8faea379-9c31-45af-859e-cbff8ce5ba61"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "44e364a6-3447-4912-b5a6-589d9db647ca"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "620e3012-9d4e-4a8b-8635-f434171e7e82"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "418e8653-cdff-44f1-a746-7a4776eba021"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "ca2c73f9-10e8-434c-b510-9649ef610642"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "4e5df739-a2ab-4c97-b02a-67f70a26ca25"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

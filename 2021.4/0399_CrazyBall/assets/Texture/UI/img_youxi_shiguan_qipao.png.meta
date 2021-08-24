@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a2a7787b-b951-4d5d-91cf-ae596ebfe69b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "img_youxi_shiguan_qipao": {
+      "ver": "1.0.4",
+      "uuid": "56e5f7cc-7db7-4297-876b-f24ee1171e44",
+      "rawTextureUuid": "a2a7787b-b951-4d5d-91cf-ae596ebfe69b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 54,
+      "height": 54,
+      "rawWidth": 54,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

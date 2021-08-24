@@ -1,0 +1,55 @@
+
+fx_baoguangWQ.png
+size: 490,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: true
+  xy: 388, 362
+  size: 126, 73
+  orig: 134, 75
+  offset: 4, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 272
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+baodian_0186
+  rotate: true
+  xy: 244, 13
+  size: 127, 124
+  orig: 128, 128
+  offset: 1, 2
+  index: -1
+baodian_0225
+  rotate: true
+  xy: 2, 23
+  size: 247, 240
+  orig: 250, 245
+  offset: 1, 4
+  index: -1
+bo_00
+  rotate: false
+  xy: 244, 142
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_00141
+  rotate: false
+  xy: 374, 156
+  size: 114, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+starDb
+  rotate: false
+  xy: 388, 310
+  size: 50, 50
+  orig: 50, 51
+  offset: 0, 0
+  index: -1

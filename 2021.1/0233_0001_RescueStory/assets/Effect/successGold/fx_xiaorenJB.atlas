@@ -1,0 +1,132 @@
+
+fx_xiaorenJB.png
+size: 671,671
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y/y_01
+  rotate: false
+  xy: 77, 6
+  size: 74, 70
+  orig: 200, 200
+  offset: 61, 56
+  index: -1
+Y/y_02
+  rotate: false
+  xy: 2, 78
+  size: 89, 92
+  orig: 200, 200
+  offset: 51, 49
+  index: -1
+Y/y_03
+  rotate: true
+  xy: 166, 61
+  size: 116, 114
+  orig: 200, 200
+  offset: 32, 38
+  index: -1
+Y/y_04
+  rotate: false
+  xy: 326, 53
+  size: 129, 127
+  orig: 200, 200
+  offset: 27, 31
+  index: -1
+Y/y_05
+  rotate: true
+  xy: 337, 374
+  size: 145, 146
+  orig: 200, 200
+  offset: 21, 21
+  index: -1
+Y/y_06
+  rotate: false
+  xy: 337, 521
+  size: 149, 148
+  orig: 200, 200
+  offset: 19, 19
+  index: -1
+Y/y_07
+  rotate: false
+  xy: 326, 182
+  size: 153, 151
+  orig: 200, 200
+  offset: 18, 17
+  index: -1
+Y/y_08
+  rotate: false
+  xy: 166, 179
+  size: 158, 154
+  orig: 200, 200
+  offset: 16, 15
+  index: -1
+Y/y_09
+  rotate: false
+  xy: 2, 172
+  size: 162, 161
+  orig: 200, 200
+  offset: 14, 11
+  index: -1
+Y/y_10
+  rotate: false
+  xy: 171, 506
+  size: 164, 163
+  orig: 200, 200
+  offset: 14, 9
+  index: -1
+Y/y_11
+  rotate: false
+  xy: 170, 335
+  size: 165, 165
+  orig: 200, 200
+  offset: 13, 9
+  index: -1
+Y/y_12
+  rotate: false
+  xy: 2, 335
+  size: 166, 165
+  orig: 200, 200
+  offset: 12, 9
+  index: -1
+Y/y_13
+  rotate: false
+  xy: 2, 502
+  size: 167, 167
+  orig: 200, 200
+  offset: 12, 8
+  index: -1
+jb
+  rotate: true
+  xy: 2, 4
+  size: 72, 73
+  orig: 79, 76
+  offset: 4, 1
+  index: -1
+yan/1
+  rotate: false
+  xy: 271, 8
+  size: 49, 51
+  orig: 54, 54
+  offset: 5, 0
+  index: -1
+yan/2
+  rotate: true
+  xy: 214, 5
+  size: 54, 55
+  orig: 58, 58
+  offset: 4, 0
+  index: -1
+yan/3
+  rotate: true
+  xy: 153, 2
+  size: 57, 59
+  orig: 62, 62
+  offset: 5, 0
+  index: -1
+yan/4
+  rotate: true
+  xy: 93, 109
+  size: 61, 60
+  orig: 62, 62
+  offset: 1, 0
+  index: -1

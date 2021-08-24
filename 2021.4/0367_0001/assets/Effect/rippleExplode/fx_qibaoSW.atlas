@@ -1,0 +1,97 @@
+
+fx_qibaoSW.png
+size: 1200,1200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 800, 98
+  size: 284, 255
+  orig: 400, 300
+  offset: 63, 5
+  index: -1
+1_00001
+  rotate: false
+  xy: 359, 391
+  size: 319, 259
+  orig: 400, 300
+  offset: 47, 5
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 384
+  size: 355, 266
+  orig: 400, 300
+  offset: 29, 5
+  index: -1
+1_00003
+  rotate: false
+  xy: 777, 384
+  size: 383, 268
+  orig: 400, 300
+  offset: 9, 5
+  index: -1
+1_00004
+  rotate: false
+  xy: 788, 930
+  size: 388, 268
+  orig: 400, 300
+  offset: 4, 5
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 928
+  size: 392, 270
+  orig: 400, 300
+  offset: 0, 5
+  index: -1
+1_00006
+  rotate: false
+  xy: 396, 926
+  size: 390, 272
+  orig: 400, 300
+  offset: 0, 5
+  index: -1
+1_00007
+  rotate: false
+  xy: 2, 652
+  size: 388, 274
+  orig: 400, 300
+  offset: 2, 5
+  index: -1
+1_00008
+  rotate: false
+  xy: 788, 654
+  size: 383, 274
+  orig: 400, 300
+  offset: 9, 5
+  index: -1
+1_00009
+  rotate: true
+  xy: 2, 2
+  size: 380, 272
+  orig: 400, 300
+  offset: 12, 5
+  index: -1
+1_00010
+  rotate: false
+  xy: 392, 652
+  size: 383, 272
+  orig: 400, 300
+  offset: 9, 5
+  index: -1
+1_00011
+  rotate: true
+  xy: 276, 3
+  size: 379, 268
+  orig: 400, 300
+  offset: 12, 5
+  index: -1
+1_00012
+  rotate: true
+  xy: 546, 17
+  size: 365, 252
+  orig: 400, 300
+  offset: 22, 12
+  index: -1

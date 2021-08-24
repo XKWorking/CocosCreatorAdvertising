@@ -1,0 +1,62 @@
+
+fx_shouj.png
+size: 401,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji/1_00000
+  rotate: true
+  xy: 208, 111
+  size: 198, 70
+  orig: 300, 200
+  offset: 52, 56
+  index: -1
+shouji/1_00001
+  rotate: false
+  xy: 2, 311
+  size: 223, 88
+  orig: 300, 200
+  offset: 39, 48
+  index: -1
+shouji/1_00002
+  rotate: false
+  xy: 2, 227
+  size: 204, 82
+  orig: 300, 200
+  offset: 49, 56
+  index: -1
+shouji/1_00003
+  rotate: true
+  xy: 280, 201
+  size: 198, 71
+  orig: 300, 200
+  offset: 59, 54
+  index: -1
+shouji/1_00004
+  rotate: false
+  xy: 2, 81
+  size: 199, 73
+  orig: 300, 200
+  offset: 64, 51
+  index: -1
+shouji/1_00005
+  rotate: false
+  xy: 2, 8
+  size: 200, 71
+  orig: 300, 200
+  offset: 66, 51
+  index: -1
+shouji/1_00006
+  rotate: false
+  xy: 2, 156
+  size: 204, 69
+  orig: 300, 200
+  offset: 63, 52
+  index: -1
+shouji/1_00007
+  rotate: true
+  xy: 280, 2
+  size: 197, 66
+  orig: 300, 200
+  offset: 71, 54
+  index: -1

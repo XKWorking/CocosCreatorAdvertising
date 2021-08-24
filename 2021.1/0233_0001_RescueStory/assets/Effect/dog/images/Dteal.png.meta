@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4d05efcb-0bfb-4413-be1e-3f0a82cf46fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 26,
+  "height": 59,
+  "platformSettings": {},
+  "subMetas": {
+    "Dteal": {
+      "ver": "1.0.4",
+      "uuid": "15ae6cd4-7bee-4fd7-bf2b-d33b58a0272e",
+      "rawTextureUuid": "4d05efcb-0bfb-4413-be1e-3f0a82cf46fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 24,
+      "height": 57,
+      "rawWidth": 26,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

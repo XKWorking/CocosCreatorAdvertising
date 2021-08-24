@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "skipRope",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.13333333333333333,
+  "sample": 30,
+  "speed": 0.6,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "301a1542-a2ca-469c-9635-2ece223a341c"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "dab4ada6-8403-49e6-a20b-315d048b7ee9"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "a365c5f7-a59d-4d32-8ad2-969a1f84007b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9ccaf310-51d3-4ee4-962b-0a33ce3f6fdd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

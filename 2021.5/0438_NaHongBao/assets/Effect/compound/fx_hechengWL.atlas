@@ -1,0 +1,167 @@
+
+fx_hechengWL.png
+size: 682,682
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian/01
+  rotate: false
+  xy: 592, 300
+  size: 88, 147
+  orig: 320, 320
+  offset: 42, 86
+  index: -1
+dian/02
+  rotate: false
+  xy: 341, 75
+  size: 119, 154
+  orig: 320, 320
+  offset: 46, 76
+  index: -1
+dian/03
+  rotate: false
+  xy: 319, 356
+  size: 99, 148
+  orig: 320, 320
+  offset: 52, 82
+  index: -1
+dian/05
+  rotate: true
+  xy: 153, 31
+  size: 182, 154
+  orig: 320, 320
+  offset: 92, 74
+  index: -1
+dian/06
+  rotate: true
+  xy: 2, 8
+  size: 187, 149
+  orig: 320, 320
+  offset: 99, 79
+  index: -1
+dian/07
+  rotate: true
+  xy: 285, 506
+  size: 174, 139
+  orig: 320, 320
+  offset: 108, 84
+  index: -1
+dian/08
+  rotate: false
+  xy: 426, 539
+  size: 171, 141
+  orig: 320, 320
+  offset: 123, 80
+  index: -1
+dian/09
+  rotate: false
+  xy: 426, 394
+  size: 164, 143
+  orig: 320, 320
+  offset: 126, 82
+  index: -1
+dian/10
+  rotate: true
+  xy: 463, 264
+  size: 128, 127
+  orig: 320, 320
+  offset: 146, 93
+  index: -1
+dian/11
+  rotate: false
+  xy: 463, 129
+  size: 155, 133
+  orig: 320, 320
+  offset: 149, 90
+  index: -1
+dian/12
+  rotate: true
+  xy: 319, 231
+  size: 123, 142
+  orig: 320, 320
+  offset: 174, 89
+  index: -1
+dian/13
+  rotate: false
+  xy: 599, 558
+  size: 80, 122
+  orig: 320, 320
+  offset: 214, 112
+  index: -1
+dian/14
+  rotate: false
+  xy: 599, 449
+  size: 75, 107
+  orig: 320, 320
+  offset: 210, 126
+  index: -1
+f
+  rotate: false
+  xy: 2, 425
+  size: 98, 255
+  orig: 128, 256
+  offset: 15, 1
+  index: -1
+sj/1_00006
+  rotate: false
+  xy: 2, 197
+  size: 99, 226
+  orig: 250, 375
+  offset: 67, 71
+  index: -1
+sj/1_00008
+  rotate: false
+  xy: 102, 454
+  size: 94, 226
+  orig: 250, 375
+  offset: 68, 71
+  index: -1
+sj/1_00010
+  rotate: false
+  xy: 103, 215
+  size: 85, 226
+  orig: 250, 375
+  offset: 68, 71
+  index: -1
+sj/1_00012
+  rotate: false
+  xy: 198, 455
+  size: 85, 225
+  orig: 250, 375
+  offset: 68, 72
+  index: -1
+sj/1_00014
+  rotate: false
+  xy: 190, 215
+  size: 81, 226
+  orig: 250, 375
+  offset: 72, 71
+  index: -1
+sj/1_00016
+  rotate: false
+  xy: 273, 228
+  size: 44, 225
+  orig: 250, 375
+  offset: 107, 72
+  index: -1
+sj/1_00018
+  rotate: false
+  xy: 309, 4
+  size: 30, 222
+  orig: 250, 375
+  offset: 109, 72
+  index: -1
+sj/1_00020
+  rotate: true
+  xy: 102, 443
+  size: 9, 91
+  orig: 250, 375
+  offset: 129, 176
+  index: -1
+xx
+  rotate: true
+  xy: 462, 9
+  size: 118, 113
+  orig: 128, 128
+  offset: 5, 5
+  index: -1

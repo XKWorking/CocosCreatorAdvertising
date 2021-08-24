@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "00d59c25-5f56-4f2b-a650-b710274a1604",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 384,
+  "height": 24,
+  "platformSettings": {},
+  "subMetas": {
+    "img_shang_05_2": {
+      "ver": "1.0.4",
+      "uuid": "ce397f1b-573b-4986-a1fe-1e939b204d8a",
+      "rawTextureUuid": "00d59c25-5f56-4f2b-a650-b710274a1604",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 376,
+      "height": 15,
+      "rawWidth": 384,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

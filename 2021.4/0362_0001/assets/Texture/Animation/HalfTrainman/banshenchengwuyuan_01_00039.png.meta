@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3eef2536-9e3c-4d78-9a16-9248b79b2660",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 399,
+  "height": 822,
+  "platformSettings": {},
+  "subMetas": {
+    "banshenchengwuyuan_01_00039": {
+      "ver": "1.0.4",
+      "uuid": "f58bdf7d-e52a-407a-8272-4e468c4f3347",
+      "rawTextureUuid": "3eef2536-9e3c-4d78-9a16-9248b79b2660",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -10,
+      "offsetY": -20,
+      "trimX": 24,
+      "trimY": 63,
+      "width": 331,
+      "height": 736,
+      "rawWidth": 399,
+      "rawHeight": 822,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
